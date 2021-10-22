@@ -76,7 +76,7 @@ body {
 .shopping-counter {
   position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: -7px;
   background-color: #ffaf19;
   font-size: 8px;
   line-height: 9px;
